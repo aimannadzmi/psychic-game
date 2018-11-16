@@ -1,0 +1,39 @@
+
+.container {
+	width: 1000px;
+	height: 1000px;
+	border-style: dotted;
+	border-width: 10px;
+	margin-left: 200px;
+	margin-right: 200px;
+	background-image: ;
+	background-size: auto;
+	}
+
+.header {
+	text-align: center;
+	font-style: italic;
+	font-size: 50px;
+	padding-top: 50px;
+	}
+
+.instructions {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 20px;
+
+	}
+	
+#scoreboard {
+	text-align: center;
+	padding-top:10px;
+	font-size:20px;
+
+	}
+
+.scoreboard {
+	border-style: solid;
+	text-align: center;
+	margin-left: 200px;
+	margin-right:200px;
+	}
