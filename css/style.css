@@ -1,6 +1,6 @@
 body {
 	background-image: url(../images/ball.jpg);
-	background-size: contain;
+	background-size: cover;
 }
 .container {
 	width: 1000px;
