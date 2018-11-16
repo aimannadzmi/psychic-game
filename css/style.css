@@ -1,4 +1,7 @@
-
+body {
+	background-image: url(../images/ball.jpg);
+	background-size: contain;
+}
 .container {
 	width: 1000px;
 	height: 1000px;
@@ -6,8 +9,7 @@
 	border-width: 10px;
 	margin-left: 200px;
 	margin-right: 200px;
-	background-image: ;
-	background-size: auto;
+	color: white;
 	}
 
 .header {
